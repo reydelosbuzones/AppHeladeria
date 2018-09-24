@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="gray1">#DDD</color>
+    <color name="gray2">#909090</color>
+    <color name="gray3">#606060</color>
+
+    <color name="colorPrimary">#329297</color>
+    <color name="colorPrimaryDark">#0f6569</color>
+    <color name="colorAccent">#0f6569</color>
+
+    <color name="btnConfirmar">#1d7886</color>
+    <color name="btnCancelar">#993c3c</color>
+</resources>
